@@ -2,9 +2,6 @@
 
 Sou apaixonado por tecnologias e resolver problemas utilizando programação. 🤟
  <br/> 🎓 &nbsp; Graduando em Ciência da computação pela **UFSJ**
- <br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-LucasVidigal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-freitas-vidigal-66862513b/)](https://www.linkedin.com/in/lucas-de-freitas-vidigal-66862513b/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-lucasvidigal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasvidigal3@gmail.com)](mailto:lucasvidigal3@gmail.com)
 
 ### GitHub Stats
 <a href="https://github.com/LucasVidigal98/LucasVidigal98">
