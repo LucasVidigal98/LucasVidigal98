@@ -1,7 +1,7 @@
 ### Saudações, Tudo bem com você? Lucas aqui! 👋
 
 Sou apaixonado por tecnologias e resolver problemas utilizando programação. 🤟
- <br/> 🎓 &nbsp; Graduando em Ciência da computação pela **UFSJ**
+ <br/> 🎓 &nbsp; Graduado em Ciência da computação pela **UFSJ**
 
 ##
 
